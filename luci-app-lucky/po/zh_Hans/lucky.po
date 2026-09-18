@@ -5,13 +5,13 @@ msgid "Lucky"
 msgstr "Lucky"
 
 msgid "Lucky Control panel"
-msgstr "Lucky操作台"
+msgstr "Lucky 操作台"
 
 msgid "ipv4/ipv6 portforward,ddns,reverseproxy proxy,wake on lan,IOT and more,Default username and password 666"
-msgstr "IPv4/IPv6端口转发,动态域名服务,http/https反向代理，默认用户名密码666.."
+msgstr "IPv4/IPv6 端口转发，动态域名，反向代理... 默认账号和密码: 666"
 
 msgid "Enable SSL"
-msgstr "开启SSL"
+msgstr "开启 SSL"
 
 msgid "Collecting data..."
 msgstr "收集数据..."
@@ -26,10 +26,10 @@ msgid "Safe entrance"
 msgstr "安全入口"
 
 msgid "Port must be between 1 and 65535"
-msgstr "端口范围1-65535之间"
+msgstr "端口范围 1-65535 之间"
 
 msgid "Open Web Interface"
-msgstr "打开WEB界面"
+msgstr "打开 WEB 界面"
 
 msgid "RUNNING"
 msgstr "运行中"
@@ -41,7 +41,7 @@ msgid "Delayed Start (seconds)"
 msgstr "开机延时启动（秒）"
 
 msgid "Username and password reset successfully to 666"
-msgstr "重置用户名和密码为666"
+msgstr "重置账号和密码为 666"
 
 msgid "SUCCESS:"
 msgstr "执行完成："
@@ -53,11 +53,11 @@ msgid "Reset account and password to initial values"
 msgstr "重置帐号和密码为初始值"
 
 msgid "Encrypt access using HTTPS"
-msgstr "使用https加密访问"
+msgstr "使用 https 加密访问"
 
 msgid "Set an installation access path, eg:sirpdboy"
-msgstr "设置一个安装访问路径，如:sirpdboy"
+msgstr "设置一个安装访问路径，如: sirpdboy"
 
 msgid "Lucky Service Not Running"
-msgstr "Lucky服务未启用"
+msgstr "Lucky 服务未启用"
 
