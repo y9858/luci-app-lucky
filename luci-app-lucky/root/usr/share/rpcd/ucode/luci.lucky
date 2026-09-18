@@ -31,7 +31,7 @@ const methods = {
 				const value = shellquote(req.args.value);
 				exit_code = system(`/usr/bin/lucky -setconf -key ${key} -value ${value} -cd ${configPath}`);
 			} else {
-				// 如果没有提供value，只设置key
+				// 濡傛灉娌℃湁鎻愪緵 value锛屽彧璁剧疆 key
 				exit_code = system(`/usr/bin/lucky -setconf -key ${key} -cd ${configPath}`);
 			}
 
