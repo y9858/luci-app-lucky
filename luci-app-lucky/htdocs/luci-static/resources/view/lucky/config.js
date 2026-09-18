@@ -139,17 +139,7 @@ return view.extend({
             return E('div', { class: 'cbi-section', id: 'status_bar' }, [
                 E('div', { id: 'service_status' }, 
                     E('p', {}, _('Collecting data...'))
-                ),
-		E('div', { 'style': 'text-align: right; font-style: italic;' }, [
-                    E('span', {}, [
-                        _('© github '),
-                        E('a', { 
-                            'href': 'https://github.com/sirpdboy', 
-                            'target': '_blank',
-                            'style': 'text-decoration: none;'
-                        }, 'by sirpdboy')
-                    ])
-                ])
+                )
             ]);
         };
 
