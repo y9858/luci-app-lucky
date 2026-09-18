@@ -8,7 +8,7 @@ msgid "Lucky Control panel"
 msgstr "Lucky 操作台"
 
 msgid "ipv4/ipv6 portforward,ddns,reverseproxy proxy,wake on lan,IOT and more,Default username and password 666"
-msgstr "IPv4/IPv6 端口转发，动态域名，反向代理... 默认账号和密码: 666"
+msgstr "IPv4/IPv6 端口转发，动态域名服务，http/https 反向代理，网络唤醒，物联网远程控制..."
 
 msgid "Enable SSL"
 msgstr "开启 SSL"
@@ -41,10 +41,10 @@ msgid "Delayed Start (seconds)"
 msgstr "开机延时启动（秒）"
 
 msgid "Username and password reset successfully to 666"
-msgstr "重置账号和密码为 666"
+msgstr "重置账号和密码为: 666"
 
 msgid "SUCCESS:"
-msgstr "执行完成："
+msgstr "执行完成:"
 
 msgid "ResetUser"
 msgstr "重置用户密码"
